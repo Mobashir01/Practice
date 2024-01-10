@@ -15,11 +15,14 @@ public class comparestring {
 
         if(s1. compareTo(s2) > 0)
             System.out.println("first string is greater than second .");
-        else if(s1. compareTo(s2) < 0)
-            System.out.println("second string is smaller . ");
-        else
-            System.out.println("both string are equal .");
+        else if(s1. compareTo(s2) < 0) {
 
+
+            System.out.println("second string is smaller . ");
+        }
+        else {
+            System.out.println("both string are equal .");
+        }
 
 
     }
