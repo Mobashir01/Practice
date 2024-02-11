@@ -8,7 +8,7 @@ public class stringsbuilderr {
         StringBuilder sb = new StringBuilder("computer");
         System.out.println(sb);
 
-        //indexing of strig
+        //indexing of string
         System.out.println(sb.charAt(3));
 
         // set char at string
