@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class reversestring {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("hello");
